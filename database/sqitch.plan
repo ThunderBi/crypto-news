@@ -1,0 +1,7 @@
+%syntax-version=1.0.0
+%project=crypto_news
+
+1_create_crypto_coin_table 2024-08-09T17:48:20Z Tedy <Tedy@DESKTOP-1GP5JPT> # Create crypto_coin table
+create_crypto_hot_news_table 2024-08-09T17:50:25Z Tedy <Tedy@DESKTOP-1GP5JPT> # Create crypto_hot_news table
+2_create_crypto_hot_news_table 2024-08-09T17:50:36Z Tedy <Tedy@DESKTOP-1GP5JPT> # Create crypto_hot_news table
+3_insert_crypto_coin 2024-08-09T18:12:49Z Tedy <Tedy@DESKTOP-1GP5JPT> # Insert crypto coin
